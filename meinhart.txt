@@ -1,2 +1,3 @@
 Hallo Welt!
 Party, Party 
+git stash --> sauberer Stand 
